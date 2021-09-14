@@ -11,4 +11,4 @@ async def on_ready():
     client.remove_command('help')
     await client.change_presence(status=discord.Status.online, activity=discord.Game("TESTING"))
 
-client.run('NjcwNTIyMjU2NjgxNTk4OTk2.YUA_IA.wbhx_ET1e8nFU1qptsVpZpmUMjQ', bot=False)
+client.run('NjcwNTIyMjU2NjgxNTk4OTk2.YUBMTQ.MGWkk_dH3DZVN5RujUs6vhmg4_0', bot=False)
